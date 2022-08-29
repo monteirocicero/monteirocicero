@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @monteirocicero
+- 👋 Hi, I’m Cícero
 - 👀 I’m interested in the best practices on the software engineering.
-- 🌱 I’m currently learning about systems scalability and I write in my personal blog https://monteirocicero.github.io/.
-- 💞️ I’m looking to collaborate on interesting business with high potencial to become the next unicorn.
+- 🌱 I’m currently learning about systems scalability and some times I write in my personal blog, here https://monteirocicero.github.io/.
+- 💞️ I’m looking for collaborate on interesting business with high potencial to become the next unicorn.
 - 📫 How to reach me is very simple @cicerolmonteiro on twitter.
 
 <!---
